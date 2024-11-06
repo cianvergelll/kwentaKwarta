@@ -9,7 +9,7 @@ const authOptions = {
 
             async authorize(credentials) {
                 const user = { id: "1" };
-                return user;
+                return null;
             },
         }),
     ],

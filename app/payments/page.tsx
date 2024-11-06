@@ -1,6 +1,6 @@
 import LeftPanel from "@/components/left-panel";
 
-export default function Expenses() {
+export default function Payments() {
   return (
     <div className="flex">
       <LeftPanel />

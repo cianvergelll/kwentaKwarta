@@ -30,7 +30,7 @@ export default function Login() {
                 setError("");
             }
 
-            router.replace("dashboard");
+            router.replace("/expenses");
         } catch (error) {}
     };
     
